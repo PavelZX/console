@@ -6,6 +6,7 @@
     "watch": "brunch watch --stdin"
   },
   "dependencies": {
+    "@absinthe/socket-apollo-link": "^0.1.11",
     "apollo-client-preset": "^1.0.8",
     "apollo-link-context": "^1.0.8",
     "axios": "^0.18.0",
